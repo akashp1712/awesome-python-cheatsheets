@@ -11,10 +11,10 @@
 \hypersetup{
     colorlinks=true,
     linkcolor=blue,
-    filecolor=magenta,
+    filecolor=magenta,      
     urlcolor=blue,
 }
-
+ 
 \urlstyle{same}
 
 \usepackage{amsmath,amssymb,textcomp}
@@ -109,7 +109,7 @@ left=10mm,right=10mm,top=10mm,bottom=15mm}
 \renewcommand{\footrulewidth}{0pt}
 \makeatother
 
-\title{Python for JAVA Developers: Basics V 1.0}
+\title{Python for JAVA Developers: Basics V 1.1}
 \author{Akash Panchal - www.medium.com/@akashp1712}
 \date{2018}
 
@@ -248,6 +248,8 @@ replace() & replace()\\
 \end{tabular}
 \end{center}
 
+Python String comparison can be performed using equality (==) and comparison (<, >, !=, <=, >=) operators. There are no special methods to compare two strings.
+
 \subsection{Boolean}
 Python provides the boolean type that can be either set to False or True.
 In python, every object has a boolean value. The following elements are false:
@@ -259,7 +261,9 @@ In python, every object has a boolean value. The following elements are false:
 \end{itemize}
 
 All other objects are True.
-\textbf{Note} that, In JAVA \textbf{null} is not false while in python None is.\subsection{List}
+\textbf{Note} that, In JAVA \textbf{null} is not false while in python None is.
+
+\subsection{List}
 The List is one of the most powerful variable type (data structure!) in Python. A list can contain a series of values. Unlike JAVA, the list need not be always homogeneous. A single list can contain strings, integers, as well as objects. Lists are mutable.
 
 List variables are declared by using brackets \boxed{[ ]} following the variable name.
@@ -385,9 +389,9 @@ Operator Precedence is same as that of JAVA, let's revise it in python. Arithmet
  \hline\hline
   ! & not & Logical negation\\
  \hline
- \&  & and & Logical conjunction\\
+ \&  & \& & Logical conjunction\\
  \hline
- | & or & Logical dis-junction\\
+ | & | & Logical dis-junction\\
  \hline
  $\wedge$ & xor & Logical exclusion \\
  \hline
@@ -418,7 +422,7 @@ Operator Precedence is same as that of JAVA, let's revise it in python. Arithmet
  != & != & Inequality\\
  \hline
  equals & is & Object equivalence \\
- \hline1
+ \hline
 \end{tabular}
 \end{center}
 \textbf{Note: } == in python is actually .equals() of Java.
@@ -431,6 +435,7 @@ var1 = 250
 if 250 == var1:
     print "The value of the variable is 250"
 \end{lstlisting}
+\vspace{5 mm}
 
 \subsection{if..else}
 \begin{lstlisting}
@@ -456,6 +461,19 @@ elif 2 == var1:
     print "This is the third " + str(var1)
 else:
     print "Value out of range!"
+\end{lstlisting}
+
+\subsection{Multiple conditions}
+\begin{lstlisting}
+skill1 = "java"
+skill2 = "python"
+
+if skill1 == "java" and skill2 == "python"
+    print "Both the condition satisfy"
+
+if skill1 == "java" or skill2 == "python"
+    print "At least One condition satisfies"
+
 \end{lstlisting}
 
 
@@ -490,7 +508,7 @@ while var1 < 37:
     print var1
 print "Exited while loop."
 \end{lstlisting}
-
+\vspace{5 mm}
 Another example of while loop with break statement.
 \begin{lstlisting}
 while True:
