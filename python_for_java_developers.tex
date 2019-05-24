@@ -453,11 +453,11 @@ print MyLayerColor
 \subsection{if..elif..elif..else}
 \begin{lstlisting}
 var1 = 0
-if 0 == var1:
+if 0 <= var1:
     print "This is the first " + str(var1)
 elif 1 == var1:
     print "This is the second " + str(var1)
-elif 2 == var1:
+elif 2 >= var1:
     print "This is the third " + str(var1)
 else:
     print "Value out of range!"
@@ -468,10 +468,10 @@ else:
 skill1 = "java"
 skill2 = "python"
 
-if skill1 == "java" and skill2 == "python"
+if skill1 == "java" and skill2 == "python":
     print "Both the condition satisfy"
 
-if skill1 == "java" or skill2 == "python"
+if skill1 == "java" or skill2 == "python":
     print "At least One condition satisfies"
 
 \end{lstlisting}
