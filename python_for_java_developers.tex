@@ -76,7 +76,7 @@ left=10mm,right=10mm,top=10mm,bottom=15mm}
 \hfill
 \begin{minipage}{0.25\textwidth}
 \begin{tikzpicture}
-\node[rectangle,rounded corners=3pt,inner sep=10pt,draw=blue!50!black,text width= 0.95\textwidth] {\LARGE Referring python 2.7};
+\node[rectangle,rounded corners=3pt,inner sep=10pt,draw=blue!50!black,text width= 0.95\textwidth] {\LARGE Referring python 3.7.1};
 \end{tikzpicture}
 \end{minipage}
 \bigskip\bigskip
@@ -109,9 +109,9 @@ left=10mm,right=10mm,top=10mm,bottom=15mm}
 \renewcommand{\footrulewidth}{0pt}
 \makeatother
 
-\title{Python for JAVA Developers: Basics V 1.1}
+\title{Python for JAVA Developers: Basics V 1.2}
 \author{Akash Panchal - www.medium.com/@akashp1712}
-\date{2018}
+\date{2019}
 
 \begin{document}
 
@@ -126,8 +126,8 @@ message1 = 'Hello World!'
 message2 = "Python gives no missing semicolon error!"
 
 # Instead of System.out.print, we use print
-print message1 # print 'Hello World!' on the console output
-print "Hello"; print "Python!";  # usage of the semicolon
+print (message1) # print 'Hello World!' on the console output
+print ("Hello"); print ("Python!");  # usage of the semicolon
 
 \end{lstlisting}
 
@@ -210,7 +210,7 @@ Most of the time using the standard Python number type is fine. Python will auto
  \hline
  long & long a = 1712L & a = 1712L & (L) Long integers\\
  \hline
- float & float a = 19.91 & a = 19.91 &  (.) Floating point values\\
+ float & float a = 19.91 & a = 19.91 & 	(.) Floating point values\\
  \hline
  complex & - - - & a = 3.14J & (J) integer [0 to 255]\\
  \hline
@@ -433,7 +433,7 @@ Operator Precedence is same as that of JAVA, let's revise it in python. Arithmet
 \begin{lstlisting}
 var1 = 250
 if 250 == var1:
-    print "The value of the variable is 250"
+    print ("The value of the variable is 250")
 \end{lstlisting}
 \vspace{5 mm}
 
@@ -447,20 +447,20 @@ else :
     MyLayerColor = 'vbGreen'
     MyObjectColor = 'vbBlack'
 
-print MyLayerColor
+print (MyLayerColor)
 \end{lstlisting}
 
 \subsection{if..elif..elif..else}
 \begin{lstlisting}
 var1 = 0
 if 0 <= var1:
-    print "This is the first " + str(var1)
+    print ("This is the first " + str(var1))
 elif 1 == var1:
-    print "This is the second " + str(var1)
+    print ("This is the second " + str(var1))
 elif 2 >= var1:
-    print "This is the third " + str(var1)
+    print ("This is the third " + str(var1))
 else:
-    print "Value out of range!"
+    print ("Value out of range!")
 \end{lstlisting}
 
 \subsection{Multiple conditions}
@@ -469,10 +469,10 @@ skill1 = "java"
 skill2 = "python"
 
 if skill1 == "java" and skill2 == "python":
-    print "Both the condition satisfy"
+    print ("Both the condition satisfy")
 
 if skill1 == "java" or skill2 == "python":
-    print "At least One condition satisfies"
+    print ("At least One condition satisfies")
 
 \end{lstlisting}
 
@@ -483,18 +483,18 @@ if skill1 == "java" or skill2 == "python":
 Python will automatically increments the counter (x) variable by 1 after coming to end of the execution block.
 \begin{lstlisting}
 for x in range(0, 5):
-    print "It's a loop: " + str(x)
+    print ("It's a loop: " + str(x))
 \end{lstlisting}
 
 Increase or decrease the counter variable by the value you specify.
 \begin{lstlisting}
 # the counter variable j is incremented by 2 each time the loop repeats
 for j in range(0, 10, 2):
-    print "We're on loop " + str(j)
+    print ("We're on loop " + str(j))
 
 # the counter variable j is decreased by 2 each time the loop repeats
 for j in range(10, 0, -2):
-    print "We're on loop " + str(j)
+    print ("We're on loop " + str(j))
 \end{lstlisting}
 
 You can exit any for loop before the counter reaches its end value by using the \boxed{break} statement.
@@ -505,8 +505,8 @@ Simple example of while loop.
 var1 = 3
 while var1 < 37:
     var1 = var1 * 2
-    print var1
-print "Exited while loop."
+    print (var1)
+print ("Exited while loop.")
 \end{lstlisting}
 \vspace{5 mm}
 Another example of while loop with break statement.
@@ -523,22 +523,22 @@ while True:
 \begin{lstlisting}
 friends = ['Huey', 'Dewey', 'Louie']
 for friend in friends:
-    print 'Hello ', friend
-print 'Done!'
+    print ('Hello ', friend)
+print ('Done!')
 \end{lstlisting}
 
 \subsection{Iterating a Tuple}
 \begin{lstlisting}
 tup = ('alpha', 'beta', 'omega')
 for val in tup:
-    print val
+    print (val)
 \end{lstlisting}
 
 \subsection{Iterating a Dictionary}
 \begin{lstlisting}
 codes = {'INDIA': 'in', 'USA': 'us', 'UK': 'gb'}
 for key in codes:
-    print key, 'corresponds to', codes[key]
+    print (key, 'corresponds to', codes[key])
 
 # Note: key is just a variable name.
 \end{lstlisting}
@@ -548,7 +548,7 @@ To loop over both key and value you can use the following:
 \begin{lstlisting}
 codes = {'INDIA': 'in', 'USA': 'us', 'UK': 'gb'}
 for key, value in codes.iteritems():
-    print key, 'corresponds to', value
+    print (key, 'corresponds to', value)
 
 # Note: key, value are just the variable names.
 \end{lstlisting}
@@ -556,8 +556,7 @@ for key, value in codes.iteritems():
 \section{The End}
 That's all Folks.\newline
 This ebook is made using \href{https://overleaf.com}{Overleaf}. \newline The source can be found on \href{https://github.com/akashp1712/python_cheat_sheets}{\LARGE{\faGithub}}. \newline
-Thanks to \faLinkedin{} \href{https://www.linkedin.com/in/piyush-joshi-b7525216/}{Piyush Joshi} for all the guidance for this project. \newline
-Visit \href{http://pythonizr.com}{Pythonizr.com} to create python boilerplate project just in \textbf{15 seconds}.
+Thanks to \faLinkedin{} \href{https://www.linkedin.com/in/piyush-joshi-b7525216/}{Piyush Joshi} for all the guidance for this project.
 
 \end{multicols*}
 \end{document}
