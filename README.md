@@ -6,7 +6,6 @@ Table of contents
 =================
 
 <!--ts-->
-   - [Python for Java Developers](#python-for-java-developers)
    1. [Python for Java Developers](#1-python-for-java-developers)
 
 
