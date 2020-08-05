@@ -16,19 +16,19 @@ Contents
 #### If you are a Java developer Or just know the basics of programming and want to learn Python, this cheatsheet is perfect for you.
 
 <p align="center">
-<img src="/resources/images/python_for_java_1.png" alt="cheat-sheet1" width="1000" height="1200"/>
+<img src="/resources/images/python_for_java_1.png" alt="cheat-sheet1" width="1000" height="1300"/>
 <p>
    
 <p align="center">
-<img src="/resources/images/python_for_java_2.png" alt="cheat-sheet2" width="900" height="520"/>
+<img src="/resources/images/python_for_java_2.png" alt="cheat-sheet2" width="1000" height="1200"/>
 <p>
    
 <p align="center">
-<img src="/resources/images/python_for_java_3.png" alt="cheat-sheet3" width="900" height="520"/>
+<img src="/resources/images/python_for_java_3.png" alt="cheat-sheet3" width="1000" height="1200"/>
 <p>
    
 <p align="center">
-<img src="/resources/images/python_for_java_4.png" alt="cheat-sheet4" width="900" height="520"/>
+<img src="/resources/images/python_for_java_4.png" alt="cheat-sheet4" width="1000" height="1200"/>
 <p>
 ---
 # Credits
