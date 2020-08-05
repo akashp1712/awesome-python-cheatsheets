@@ -9,6 +9,8 @@ Table of contents
    1. [Python for Java Developers](#1-python-for-java-developers)
 
 
+Contents
+========
 ## 1. Python for Java Developers
 
 #### If you are a Java developer Or just know the basics of programming and want to learn Python, this cheatsheet is perfect for you.
@@ -22,6 +24,21 @@ It covers the following topics of Python:
 - Looping
 - Iteration
 
+<p align="center">
+<img src="/resources/images/python_for_java_1.png" alt="cheat-sheet1" width="900" height="520"/>
+<p>
+   
+<p align="center">
+<img src="/resources/images/python_for_java_2.png" alt="cheat-sheet2" width="900" height="520"/>
+<p>
+   
+<p align="center">
+<img src="/resources/images/python_for_java_3.png" alt="cheat-sheet3" width="900" height="520"/>
+<p>
+   
+<p align="center">
+<img src="/resources/images/python_for_java_4.png" alt="cheat-sheet4" width="900" height="520"/>
+<p>
 ---
 # Credits
 
