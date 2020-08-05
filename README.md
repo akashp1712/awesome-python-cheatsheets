@@ -14,18 +14,9 @@ Contents
 ## 1. Python for Java Developers
 
 #### If you are a Java developer Or just know the basics of programming and want to learn Python, this cheatsheet is perfect for you.
-It covers the following topics of Python:
-
-- Basic Syntax
-- Variables
-- Data Types
-- Operators
-- Conditions
-- Looping
-- Iteration
 
 <p align="center">
-<img src="/resources/images/python_for_java_1.png" alt="cheat-sheet1" width="900" height="520"/>
+<img src="/resources/images/python_for_java_1.png" alt="cheat-sheet1" width="900" height="720"/>
 <p>
    
 <p align="center">
