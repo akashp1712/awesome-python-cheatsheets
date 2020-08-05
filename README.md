@@ -16,7 +16,7 @@ Contents
 #### If you are a Java developer Or just know the basics of programming and want to learn Python, this cheatsheet is perfect for you.
 
 <p align="center">
-<img src="/resources/images/python_for_java_1.png" alt="cheat-sheet1" width="1000" height="900"/>
+<img src="/resources/images/python_for_java_1.png" alt="cheat-sheet1" width="1000" height="1200"/>
 <p>
    
 <p align="center">
