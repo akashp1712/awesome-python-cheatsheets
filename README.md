@@ -6,30 +6,31 @@ Table of contents
 =================
 
 <!--ts-->
-   1. [Python for Java Developers](#1-python-for-java-developers)
-
+   **1. [Python for Java Developers](#1-python-for-java-developers)**
 
 Contents
 ========
 ## 1. Python for Java Developers
 
 #### If you are a Java developer Or just know the basics of programming and want to learn Python, this cheatsheet is perfect for you.
+[Find it on Medium Article](https://medium.com/nestedif/cheatsheet-python-for-java-developers-98f75c94a1a)
 
 <p align="center">
 <img src="/resources/images/python_for_java_1.png" alt="cheat-sheet1" width="1000" height="1300"/>
 <p>
    
 <p align="center">
-<img src="/resources/images/python_for_java_2.png" alt="cheat-sheet2" width="1000" height="1200"/>
+<img src="/resources/images/python_for_java_2.png" alt="cheat-sheet2" width="1000" height="1300"/>
 <p>
    
 <p align="center">
-<img src="/resources/images/python_for_java_3.png" alt="cheat-sheet3" width="1000" height="1200"/>
+<img src="/resources/images/python_for_java_3.png" alt="cheat-sheet3" width="1000" height="1300"/>
 <p>
    
 <p align="center">
-<img src="/resources/images/python_for_java_4.png" alt="cheat-sheet4" width="1000" height="1200"/>
+<img src="/resources/images/python_for_java_4.png" alt="cheat-sheet4" width="1000" height="1300"/>
 <p>
+
 ---
 # Credits
 
