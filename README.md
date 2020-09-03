@@ -13,7 +13,7 @@ Contents
 ## 1. Python for Java Developers
 
 #### If you are a Java developer Or just know the basics of programming and want to learn Python, this cheatsheet is perfect for you.
-[Find it on Medium Article](https://medium.com/nestedif/cheatsheet-python-for-java-developers-98f75c94a1a)
+[View the PDF version](https://github.com/akashp1712/python-cheat-sheets/blob/master/Python_for_Java_developers_cheat_sheet.pdf) / [Find it on Medium](https://medium.com/nestedif/cheatsheet-python-for-java-developers-98f75c94a1a) 
 
 <p align="center">
 <img src="/resources/images/python_for_java_1.png" alt="cheat-sheet1" width="1000" height="1300"/>
