@@ -5,8 +5,9 @@
 Table of contents
 =================
 
-<!--ts-->
-   **1. [Python for Java Developers](#1-python-for-java-developers)**
+<!--ts-->.
+   ### 1. [Python for Java Developers](#1-python-for-java-developers)
+   ### Bonus. [Awesome Python Tricks](https://akashp1712.github.io/python-tricks/random/)
 
 Contents
 ========
