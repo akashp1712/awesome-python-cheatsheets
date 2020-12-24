@@ -7,6 +7,7 @@ Table of contents
 
 <!--ts-->.
    ### 1. [Python for Java Developers](#1-python-for-java-developers)
+   ### 2. [Python for Competitive Programmers](#2-python-for-competitive-programmers)
    ### Bonus. [Awesome Python Tricks](https://akashp1712.github.io/python-tricks/random/)
 
 Contents
@@ -31,6 +32,13 @@ Contents
 <p align="center">
 <img src="/resources/images/python_for_java_4.png" alt="cheat-sheet4" width="1000" height="1300"/>
 <p>
+
+---
+
+
+## 2. Python for Competitive Programmers
+#### Useful tricks and tips for Competitive Programming And Coding Interviews
+[View the PDF version](https://github.com/akashp1712/python-cheat-sheets/blob/master/Python_for_Competitive_Programmers_cheat_sheet.pdf)
 
 ---
 # Credits
