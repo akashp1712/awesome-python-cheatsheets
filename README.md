@@ -40,6 +40,14 @@ Contents
 #### Useful tricks and tips for Competitive Programming And Coding Interviews
 [View the PDF version](https://github.com/akashp1712/python-cheat-sheets/blob/master/Python_for_Competitive_Programmers_cheat_sheet.pdf)
 
+<p align="center">
+<img src="/resources/images/python_for_cp_1.png" alt="cheat-sheet1" width="1000" height="1300"/>
+<p>
+   
+<p align="center">
+<img src="/resources/images/python_for_cp_2.png" alt="cheat-sheet2" width="1000" height="1300"/>
+<p>
+
 ---
 # Credits
 
