@@ -15,7 +15,7 @@ Contents
 ## 1. Python for Java Developers
 
 #### If you are a Java developer Or just know the basics of programming and want to learn Python, this cheatsheet is perfect for you.
-[View the PDF version](https://github.com/akashp1712/python-cheat-sheets/blob/master/Python_for_Java_developers_cheat_sheet.pdf) / [Find it on Medium](https://medium.com/nestedif/cheatsheet-python-for-java-developers-98f75c94a1a) 
+[View the PDF version](https://github.com/akashp1712/awesome-python-cheatsheets/blob/master/Python_for_Java_developers_cheat_sheet.pdf) / [Find it on Medium](https://medium.com/nestedif/cheatsheet-python-for-java-developers-98f75c94a1a) 
 
 <p align="center">
 <img src="/resources/images/python_for_java_1.png" alt="cheat-sheet1" width="1000" height="1300"/>
@@ -38,7 +38,7 @@ Contents
 
 ## 2. Python for Competitive Programmers
 #### Useful tricks and tips for Competitive Programming And Coding Interviews
-[View the PDF version](https://github.com/akashp1712/python-cheat-sheets/blob/master/Python_for_Competitive_Programmers_cheat_sheet.pdf)
+[View the PDF version](https://github.com/akashp1712/awesome-python-cheatsheets/blob/master/Python_for_Competitive_Programmers_cheat_sheet.pdf)
 
 <p align="center">
 <img src="/resources/images/python_for_cp_1.png" alt="cheat-sheet1" width="1000" height="1300"/>
