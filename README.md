@@ -1,4 +1,4 @@
-# Python Cheat Sheets
+# Awesome Python CheatSheets
 ### This repo is created with the aim of providing python cheatsheets for developers that help them in study and in work.
 
 --- 
