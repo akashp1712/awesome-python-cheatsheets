@@ -8,7 +8,6 @@ Table of contents
 <!--ts-->.
    ### 1. [Python for Java Developers](#1-python-for-java-developers-1)
    ### 2. [Python for Competitive Programmers](#2-python-for-competitive-programmers-1)
-   ### Bonus. [Awesome Python Tricks](https://akashp1712.github.io/python-tricks/random/)
 
 Contents
 ========
