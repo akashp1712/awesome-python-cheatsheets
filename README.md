@@ -35,9 +35,9 @@ Contents
 ---
 
 
-## 2. Python for Competitive Programmers
-#### Useful tricks and tips for Competitive Programming And Coding Interviews
-[View the PDF version](https://github.com/akashp1712/awesome-python-cheatsheets/blob/master/Python_for_Competitive_Programmers_cheat_sheet.pdf)
+## 2. Python for Coding Interviews
+#### Useful tricks and tips for Coding Interviews
+[View the PDF version](https://github.com/akashp1712/awesome-python-cheatsheets/blob/master/python-for-coding-interviews.pdf)
 
 <p align="center">
 <img src="/resources/images/python_for_cp_1.png" alt="cheat-sheet1" width="1000" height="1300"/>
