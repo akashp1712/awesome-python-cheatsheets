@@ -1,13 +1,13 @@
 # Awesome Python CheatSheets
-### This repo is created with the aim of providing python cheatsheets for developers that help them in study and in work.
-
+#### This repo is created with the aim of providing python cheatsheets for developers that help them in study and in work.
+##### Note: if you like my work, please support by adding yourself for [LessenText](https://yep.so/p/lessentextai?ref=github) Beta program.
 --- 
 Table of contents
 =================
 
-<!--ts-->.
+<!--ts-->
    ### 1. [Python for Java Developers](#1-python-for-java-developers-1)
-   ### 2. [Python for Competitive Programmers](#2-python-for-competitive-programmers-1)
+   ### 2. [Python for Competitive Programmers](#2-python-for-coding-interviews)
 
 Contents
 ========
